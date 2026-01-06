@@ -1,0 +1,27 @@
+# Binary
+pgmd
+
+# Test binary
+*.test
+
+# Coverage
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (may contain credentials)
+.env
+.env.local
+
+# Claude Code
+.claude/
+claude.local.md
